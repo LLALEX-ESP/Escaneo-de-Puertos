@@ -3,7 +3,7 @@ Herramienta para el escaneo de puertos sencilla, rápida y discreta.
 
 -La forma para ejecutar el programa es sencilla:
 
-  1º Otórgale permisos
+  1º Otórgale permisos:
   
     chmod +x EscaneoDepuertos.sh
   
